@@ -1,4 +1,4 @@
-# Asteroids-Pygame
+# Asteroids-Pygame  🪐
 
 Asteroids-Pygame is a simple clone of the classic arcade game Asteroids built using the Pygame library in Python. It provides a fun and challenging gaming experience where players control a spaceship and navigate through space while avoiding asteroids and other obstacles.
 
